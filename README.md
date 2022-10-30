@@ -2,6 +2,9 @@
 - 👀 I’m interested in Artificial Intelligence and Reinforcement Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Basic Python Projects
+
+- I welcome all contributions to my public repos and projects. Starting with...
+- 1. CoffeeMachine
 - 
 
 <!---
